@@ -122,13 +122,13 @@ const Login = () => {
                     <div className="px-10 py-8">
                       <LocalLogin revalidate={revalidate} />
                     </div>
-                    <div>
-                    </div>
-                  </>
+                  </div>
                 </div>
-              </div>
+              </>
             </div>
-            );
-};
-
-            export default Login;
+          </>
+        </div>
+      </div>
+    </div>
+    
+    export default Login;
